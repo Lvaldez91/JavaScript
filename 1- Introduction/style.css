@@ -1,0 +1,30 @@
+body{
+    background: #154360;
+    color: #FDFEFE ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-size: 50px;
+    text-align: center;
+}
+
+.caja{
+    justify-content: center;
+    display:grid;
+}
+.btn {
+    background: #ECF0F1;
+    border-radius: 2px;
+    color: #34495E;
+    font-size: 18px;
+    font-weight: 200em;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    width: 300px;
+}
+
+.btn:hover {
+    background: #4CAF50; /* Green */
+    color: white;
+}
